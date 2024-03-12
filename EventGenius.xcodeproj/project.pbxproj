@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		50AF26442B9FE6C400D3DED2 /* EventGeniusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50AF26432B9FE6C400D3DED2 /* EventGeniusApp.swift */; };
 		50AF26462B9FE6C400D3DED2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50AF26452B9FE6C400D3DED2 /* ContentView.swift */; };
-		50AF26482B9FE6C400D3DED2 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50AF26472B9FE6C400D3DED2 /* Item.swift */; };
 		50AF264A2B9FE6C600D3DED2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50AF26492B9FE6C600D3DED2 /* Assets.xcassets */; };
 		50AF264D2B9FE6C600D3DED2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50AF264C2B9FE6C600D3DED2 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +17,6 @@
 		50AF26402B9FE6C400D3DED2 /* EventGenius.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EventGenius.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50AF26432B9FE6C400D3DED2 /* EventGeniusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventGeniusApp.swift; sourceTree = "<group>"; };
 		50AF26452B9FE6C400D3DED2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		50AF26472B9FE6C400D3DED2 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		50AF26492B9FE6C600D3DED2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50AF264C2B9FE6C600D3DED2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,7 +53,6 @@
 			children = (
 				50AF26432B9FE6C400D3DED2 /* EventGeniusApp.swift */,
 				50AF26452B9FE6C400D3DED2 /* ContentView.swift */,
-				50AF26472B9FE6C400D3DED2 /* Item.swift */,
 				50AF26492B9FE6C600D3DED2 /* Assets.xcassets */,
 				50AF264B2B9FE6C600D3DED2 /* Preview Content */,
 			);
@@ -141,7 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				50AF26462B9FE6C400D3DED2 /* ContentView.swift in Sources */,
-				50AF26482B9FE6C400D3DED2 /* Item.swift in Sources */,
 				50AF26442B9FE6C400D3DED2 /* EventGeniusApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
