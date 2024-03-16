@@ -1,2 +1,1 @@
-# EventGenius
-EventGenius: Your AI-powered event planning companion, streamlining the process and empowering you to create unforgettable community gatherings with ease.
+new repo -> https://github.com/Moddingus/EventMaster
